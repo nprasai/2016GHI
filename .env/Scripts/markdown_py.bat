@@ -1,0 +1,1 @@
+@"d:\users\nprasai\desktop\ghi2016\global-hunger-index\.env\scripts\python.exe" "d:\users\nprasai\desktop\ghi2016\global-hunger-index\.env\Scripts\markdown_py" %*
